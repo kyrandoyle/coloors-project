@@ -45,7 +45,7 @@ color h2 {
   padding: 1rem;
   width: 80%;
   border-top-right-radius: 1rem;
-  pointer-events: none;
+  /* pointer-events: none; */
   border-top-left-radius: 1rem;
   /* We are adding an adjustment class */
   /* transform: translateY(100px); */
